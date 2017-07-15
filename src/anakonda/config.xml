@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SnakeConfiguration title="贪吃蛇">
+	<GameArea geometry="32*20" cell.size="32"
+	 cell.tile="resource/Gray_32x32.png"/>
+	 <Rules>
+	 	<rule.boundary class=""/>
+	 </Rules>
+	 <Widgets>
+	 	<widget class="Snake" pos="16,9" input="28,40,37,39"
+	 	 skin="resource/SnakeSkeleton_32x32.png" />
+	 	 <widget class="Mouse" pos="16,9"
+	 	  skin="resource/CodeComplete_32x32.png"/>
+	 </Widgets>
+</SnakeConfiguration>

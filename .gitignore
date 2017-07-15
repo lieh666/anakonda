@@ -1,0 +1,10 @@
+*.class
+src/test/GreetingClient.java
+src/test/GreetingServer.java
+src/test/BTest.java
+src/test/ATest.java
+.idea/misc.xml
+.idea/workspace.xml
+.idea/modules.xml
+.idea/vcs.xml
+anakonda.iml
